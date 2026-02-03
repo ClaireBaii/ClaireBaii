@@ -76,13 +76,6 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ClaireBaii&repo=GLoCIM-Simple&theme=radical&hide_border=true" />
     </picture>
   </a>
-  <a href="https://github.com/ClaireBaii/link-prediction">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ClaireBaii&repo=link-prediction&theme=radical&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ClaireBaii&repo=link-prediction&theme=default&hide_border=true">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ClaireBaii&repo=link-prediction&theme=radical&hide_border=true" />
-    </picture>
-  </a>
 </div>
 <!-- TOP_PROJECTS_END -->
 
