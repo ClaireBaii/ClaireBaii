@@ -14,8 +14,7 @@ MODE = "STATIC"
 
 # List of repository names for STATIC mode
 STATIC_PROJECTS = [
-    "GLoCIM-Simple",
-    "link-prediction"
+    "root-injury-rhizosphere"
 ]
 
 def get_top_repos():
